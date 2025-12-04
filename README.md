@@ -12,7 +12,6 @@ This project was my **final project** for the Codedex Python course, where I ela
 - [Installation](#installation)
 - [Usage](#usage)
 - [Credits](#credits)
-- [License](#license)
 
 ---
 
@@ -86,4 +85,4 @@ $memes
 - My own elaboration and detailed comments to fully understand how the bot and API work.
 
   
-***Made with ❤️ by Shekainah Bag-ao***
+-***Made with ❤️ by Shekainah Bag-ao***
